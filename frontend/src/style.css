@@ -1,0 +1,43 @@
+:root {
+
+    --font-family: 'Fredoka One', sans-serif;
+
+    /*
+    - **Azul cielo (#3498DB)**: Da confianza y profesionalismo.
+    - **Rosa coral (#FF6A6A)**: Transmite dinamismo y diversión.
+    - **Gris oscuro (#2C2C2C)**: Para fondos neutros.
+    */
+
+    --color-primary-A: #3498DB;
+    --color-primary-B: #FF6A6A;
+    --color-primary-bg: #2C2C2C;
+
+    /*
+     - **Púrpura vibrante (#9B59B6)**: Acentos futuristas y creativos.
+     - **Lima brillante (#00E676)**: Representa el éxito en proyectos creativos.
+     - **Naranja cálido (#E67E22)**: Detalles llamativos, como botones interactivos.
+
+     */
+    --color-secondary-A: #9B59B6;
+    --color-secondary-B: #00E676;
+    --color-ctas: #E67E22;
+
+
+    /*
+
+    1. **Diseña el HUD (Interfaz)**:
+    - Usa colores principales como base para menús, pantallas y ventanas emergentes.
+    - Destaca botones y números importantes (como métricas de juegos o ingresos) con colores secundarios brillantes (naranja, verde o amarillo).
+
+     2. **Usa colores suaves para fondos**: Mantén fondos simples (grises, blancos o tonos oscuros) para no distraer a los jugadores.
+
+    3. **Usa colores brillantes para feedback**:
+    - Verde para éxitos.
+    - Amarillo para advertencias.
+    - Rojo para errores o fracasos.
+
+4. **Prueba con usuarios**:
+    - Permite a jugadores ajustar el tema oscuro o claro para su comodidad.
+
+     */
+}
